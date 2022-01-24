@@ -1,0 +1,21 @@
+@font-face {
+    font-family: ReithSans;
+    font-display: fallback;
+    src: 
+    url('./Desktop/BBCReithSans_Rg.ttf') format('truetype'),
+    url('./Web/WOFF/BBCReithSans_W_Rg.woff') format('woff'),
+    url('./Web/EOT/BBCReithSans_W_Rg.eot?iefix') format('embedded-opentype');
+
+    font-style: normal;
+}
+@font-face {
+    font-family: ReithSans;
+    font-display: fallback;
+    src: 
+    url('./Desktop/BBCReithSans_Bd.ttf') format('truetype'),
+    url('./Web/WOFF/BBCReithSans_W_Bd.woff') format('woff'),
+    url('./Web/EOT/BBCReithSans_W_Bd.eot') format('embedded-opentype');
+
+    font-weight: 700;
+}
+
