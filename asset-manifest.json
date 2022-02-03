@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bbc/static/css/main.0864fab5.css",
+    "main.js": "/bbc/static/js/main.3c62fefd.js",
+    "static/js/787.ca6450ab.chunk.js": "/bbc/static/js/787.ca6450ab.chunk.js",
+    "static/media/BBCReithSans_Rg.ttf": "/bbc/static/media/BBCReithSans_Rg.64496c38ebd4d3b17bca.ttf",
+    "static/media/BBCReithSans_Bd.ttf": "/bbc/static/media/BBCReithSans_Bd.95ca8db4510ec42f0b62.ttf",
+    "static/media/BBCReithSans_W_Rg.woff": "/bbc/static/media/BBCReithSans_W_Rg.6f12d1442924770e85bd.woff",
+    "static/media/BBCReithSans_W_Rg.eot?iefix": "/bbc/static/media/BBCReithSans_W_Rg.e284c9baf4e051166daf.eot",
+    "static/media/BBCReithSans_W_Bd.woff": "/bbc/static/media/BBCReithSans_W_Bd.fefe70399136237ffd0d.woff",
+    "static/media/BBCReithSans_W_Bd.eot": "/bbc/static/media/BBCReithSans_W_Bd.942131179b01ca623aaa.eot",
+    "index.html": "/bbc/index.html",
+    "static/media/timestamp.svg": "/bbc/static/media/timestamp.bbc4566e78c4b6193d21.svg",
+    "main.0864fab5.css.map": "/bbc/static/css/main.0864fab5.css.map",
+    "main.3c62fefd.js.map": "/bbc/static/js/main.3c62fefd.js.map",
+    "787.ca6450ab.chunk.js.map": "/bbc/static/js/787.ca6450ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0864fab5.css",
+    "static/js/main.3c62fefd.js"
+  ]
+}
