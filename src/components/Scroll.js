@@ -58,11 +58,11 @@ const Scroll = (props) => {
 		});
 	};
 
-	const activate = (action) => {
+	const activate = () => {
 		currentGraphic.classList.add("visible");
 	};
 
-	const inactivate = (action) => {
+	const inactivate = () => {
 		for (let i = 0; i < graphicEle.length; i++) {
 			graphicEle[i].classList.remove("visible");
 		}
